@@ -15,10 +15,10 @@ config = {
         database: {
             client: 'mysql',
             connection: {
-                host: 10.10.26.58,
-                user: uFup54tTlSRPn0be,
-                password: pQOxcylMpSG5XzDHo,
-                database: X9V5rCganswMDmcA,
+                host: '10.10.26.58',
+                user: 'uFup54tTlSRPn0be',
+                password: 'pQOxcylMpSG5XzDHo',
+                database: 'X9V5rCganswMDmcA',
                 charset: 'utf8'
             },
             debug: false
