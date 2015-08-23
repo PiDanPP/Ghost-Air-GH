@@ -15,10 +15,10 @@ config = {
         database: {
             client: 'mysql',
             connection: {
-                host: process.env.MYSQL_PORT_3306_TCP_ADDR,
-                user: process.env.MYSQL_USERNAME,
-                password: process.env.MYSQL_PASSWORD,
-                database: process.env.MYSQL_INSTANCE_NAME,
+                host: 10.10.26.58,
+                user: uFup54tTlSRPn0be,
+                password: pQOxcylMpSG5XzDHo,
+                database: X9V5rCganswMDmcA,
                 charset: 'utf8'
             },
             debug: false
